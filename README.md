@@ -54,6 +54,10 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akkshita06&theme=tokyonight&hide_border=true)
 
 ---
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akkshita06&theme=tokyo-night&hide_border=true)
+---
 
 ## Let's Connect
 
