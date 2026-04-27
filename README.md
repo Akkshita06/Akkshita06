@@ -76,6 +76,5 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 ---
-
 <!-- Visitor counter -->
 ![](https://komarev.com/ghpvc/?username=Akkshita06&color=7B68EE&style=flat-square&label=Profile+Views)
