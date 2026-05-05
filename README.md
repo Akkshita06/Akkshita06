@@ -50,29 +50,9 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 
 ## 📊 GitHub Stats
 
-<div className="flex flex-col items-center gap-6">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Akkshita06&show_icons=true&theme=tokyonight"
-    alt="stats"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/Akkshita06?style=for-the-badge"
-    alt="stars"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkshita06&layout=compact&theme=tokyonight"
-    alt="langs"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Akkshita06&theme=tokyonight"
-    alt="streak"
-  />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Akkshita06?style=for-the-badge&color=1f6feb&labelColor=0d1117" />
+</p>
 
 ---
 ## 📈 Contribution Graph
