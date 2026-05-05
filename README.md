@@ -5,7 +5,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&width=500&lines=AI%2FML+Engineer+in+the+making...;Turning+data+into+decisions.;Always+learning.+Never+stopping.)
 
 ---
-
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+</p>
 ## Who Am I?
 
 > *"The best way to predict the future is to create it."*
