@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+making...;Turning+data+into+decisions.;Always+learning.+Never+stopping.;Thinking+in+vectors%2C+dreaming+in+loss+curves." alt="Typing SVG"/>
 </p>
 
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="480"/>
+</p>
+
 ---
 
 ## 🧠 Who Am I?
@@ -62,21 +67,10 @@ current_focus = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akkshita06&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkshita06&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
-</p>
-
 <!-- GitHub Streak -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Akkshita06&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
-
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akkshita06&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 📈 Contribution Graph
@@ -85,7 +79,6 @@ current_focus = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akkshita06&theme=tokyo-night&hide_border=true&area=true&custom_title=Akkshita's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
----
 
 ## 🤝 Let's Connect
 
@@ -104,8 +97,4 @@ current_focus = {
 ---
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akkshita06&color=7B68EE&style=flat-square&label=Profile+Views"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
