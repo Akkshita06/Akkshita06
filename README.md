@@ -51,9 +51,8 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Akkshita06?style=for-the-badge&color=1f6feb&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Akkshita06&query=public_repos&style=for-the-badge&label=Public%20Repos&color=1f6feb&labelColor=0d1117"/>
 </p>
-
 ---
 ## 📈 Contribution Graph
 
