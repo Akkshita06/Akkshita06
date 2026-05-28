@@ -1,15 +1,14 @@
-<!-- Header -->
-# Hey, I'm Akkshita 👾
-### Building intelligent systems. One model at a time.
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=200&section=header&text=Hey,%20I'm%20Akkshita%20👾&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems.%20One%20model%20at%20a%20time.&descAlignY=58&descSize=16&descColor=cccccc" width="100%"/>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+the+making...;Turning+data+into+decisions.;Always+learning.+Never+stopping.;Thinking+in+vectors%2C+dreaming+in+loss+curves." alt="Typing SVG"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&width=500&lines=AI%2FML+Engineer+in+the+making...;Turning+data+into+decisions.;Always+learning.+Never+stopping.)
-
 ---
-## Who Am I?
+
+## 🧠 Who Am I?
 
 > *"The best way to predict the future is to create it."*
 
@@ -24,26 +23,39 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+**Languages & Core**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**ML / DL Frameworks**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+**Tools & Environment**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-```
- Large Language Models (LLMs) — prompt engineering, fine-tuning
- Transformer architecture internals
- MLOps — model deployment, monitoring, CI/CD for ML
- Reinforcement Learning fundamentals
+```python
+current_focus = {
+    "LLMs"      : ["prompt engineering", "fine-tuning", "RAG"],
+    "Internals" : ["Transformer architecture", "attention mechanisms"],
+    "MLOps"     : ["model deployment", "monitoring", "CI/CD for ML"],
+    "RL"        : ["Q-learning", "policy gradients", "env design"],
+}
 ```
 
 ---
@@ -51,21 +63,49 @@ Currently deep-diving into the intersection of data, algorithms, and real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Akkshita06&query=public_repos&style=for-the-badge&label=Public%20Repos&color=1f6feb&labelColor=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Akkshita06&show_icons=true&theme=tokyo-night&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkshita06&layout=compact&theme=tokyo-night&hide_border=true&langs_count=6" height="165"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Akkshita06&theme=tokyo-night&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Akkshita06&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
+
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akkshita06&theme=tokyo-night&hide_border=true)
----
-
-## Let's Connect
-
-<!-- Add your actual links below -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akkshita06&theme=tokyo-night&hide_border=true&area=true&custom_title=Akkshita's%20Contribution%20Graph" alt="GitHub Activity Graph" width="100%"/>
+</p>
 
 ---
-<!-- Visitor counter -->
-![](https://komarev.com/ghpvc/?username=Akkshita06&color=7B68EE&style=flat-square&label=Profile+Views)
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Akkshita06">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akkshita06&color=7B68EE&style=flat-square&label=Profile+Views"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F77DD&height=100&section=footer" width="100%"/>
